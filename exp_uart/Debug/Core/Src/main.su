@@ -1,0 +1,8 @@
+main.c:78:5:main	80	static
+main.c:158:6:SystemClock_Config	88	static
+main.c:203:13:MX_USART2_UART_Init	8	static
+main.c:236:13:MX_GPIO_Init	48	static
+main.c:269:9:UARTRecieveIT	16	static
+main.c:281:6:CodeselectingMenu	448	static
+main.c:381:6:HAL_GPIO_EXTI_Callback	72	static
+main.c:404:6:Error_Handler	4	static,ignoring_inline_asm
